@@ -7,18 +7,11 @@ Return the length of the smallest subarray that you need to remove, or -1 if it'
 A subarray is defined as a contiguous block of elements in the array.*/
 
 function makeSumDivisibleByP(nums,p){
-    for(let i=0;i<nums.length;i++){
-        sum = sum + nums[i]
-        if(sum === p){
-            return sum %p
-        }
-        else{
-
-        }
-}}
+    
+   }
 let sum = 0
 let nums = [1,2,3]
-let p=6
+let p=3
 console.log(makeSumDivisibleByP(nums,p))
 
 

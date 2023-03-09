@@ -73,4 +73,4 @@ function threeSum(nums) {
     
     return result;
   }
-  console.log(threeSum(nums))
+  // console.log(threeSum(nums))
