@@ -1,6 +1,6 @@
 # Javascript-challenges
 
-<h3>Top Interview questions from leetcode and other Almabetter</h3>
+<h3>Top Interview questions from Almabetter, leetcode </h3>
 
 ## Covers the Topics like
 <ul>
