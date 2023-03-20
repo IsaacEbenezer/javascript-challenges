@@ -33,10 +33,10 @@ console.log(rotateArray(arr,k))
 //approach 2
 function rotateArray(nums, k) {
     // calculate the actual number of rotations needed
-    k = k % nums.length;
+     k = k % nums.length;
     
     // rotate the array using the splice and concat methods
-    let rotatedArray = nums.splice(-k).concat(nums);
+    let rotatedArray = nums.splice(-j).concat(nums);
     
     // return the rotated array
     return rotatedArray;

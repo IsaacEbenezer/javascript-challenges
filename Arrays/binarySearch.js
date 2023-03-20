@@ -1,4 +1,4 @@
-let nums = [1,2,4,5,6] ,target = 4
+let nums = [1,2,4,5,6] ,target = 5
 function binarySearch(nums,target){
     let low = 0;
     let high = nums.length-1

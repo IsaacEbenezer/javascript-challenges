@@ -4,3 +4,6 @@ function Numberof1Bits(n){
 }
 let n =00000000000000000000000000001011
 console.log(Numberof1Bits(n))
+
+
+//O(logn) --- time complexity
